@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WorkLocation",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "name": "Work Location" }, "geometry": { "type": "Point", "coordinates": [ -78.63821820766313, 35.784529320198551 ] } }
+]
+}
